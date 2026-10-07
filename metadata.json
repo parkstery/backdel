@@ -1,0 +1,6 @@
+{
+  "name": "아날로그 스톱워치 및 알람 시계",
+  "description": "초 단위까지 설정 가능한 스톱워치와 알람, 아날로그 시분초침 디자인 웹 애플리케이션",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
